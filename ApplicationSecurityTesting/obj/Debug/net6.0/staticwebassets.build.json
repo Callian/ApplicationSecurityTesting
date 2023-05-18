@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TF8TAuMre+WtiupDl0JIbeoMPs2R3K2qrQBm+YY1TZQ=",
+  "Source": "ApplicationSecurityTesting",
+  "BasePath": "_content/ApplicationSecurityTesting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
